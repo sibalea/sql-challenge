@@ -21,4 +21,4 @@ The [queries.sql](./EmployeeSQL/queries.sql) SQL script generates the various ta
 8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 ## Acknowledgment
-Adding Module5 assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).
+Adding Module9 SQL assignment done with the expertise of [@rosericazondekon](https://github.com/rosericazondekon).
